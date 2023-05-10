@@ -1,9 +1,9 @@
 ## Bem-vindo(a) ao perfil do Pedro 😁
 
  <div>
-   <a href="https://github.com/pedroaraujoolivera">
-   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=pedroaraujoolivera&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pedroaraujoolivera&layout=compact&langs_count=6&theme=tokyonight"/>
+   <a href="https://github.com/pedroaraujooliveira">
+   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=pedroaraujooliveira&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pedroaraujooliveira&layout=compact&langs_count=6&theme=tokyonight"/>
 
 </div>
 <div style="display: inline_block"><br>
@@ -21,6 +21,6 @@
   <a href = "p.araujoofc@hotmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/pedro-araujo-bueno-de-oliveira-b01439261/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
  
-  ![Snake animation](https://github.com/pedroaraujoolivera/pedroaraujoolivera/blob/output/github-contribution-grid-snake.svg)
+  ![Snake animation](https://github.com/pedroaraujooliveira/pedroaraujooliveira/blob/output/github-contribution-grid-snake.svg)
 
 </div>
